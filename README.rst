@@ -37,10 +37,11 @@ Projects using LconfPygmentsLexer
 
 `projects` which make use of: **LconfPygmentsLexer**
 
-- `PSphinxTheme <https://github.com/peter1000/PSphinxTheme>`_ A sphinx theme which has an admonition for `LCONF` examples.
+- `PSphinxTheme <https://github.com/peter1000/PSphinxTheme>`_
+   A sphinx theme which has an admonition for `LCONF` examples.
 
-- `LCONF <https://github.com/peter1000/LCONF>`_ L(ight) CONF(iguration): A simple human-readable data serialization format
-   for dynamic configuration.
+- `LCONF <https://github.com/peter1000/LCONF>`_
+   L(ight) CONF(iguration): A light - human-friendly, simple readable data serialization format for dynamic configuration.
 
 
 Online Resources
